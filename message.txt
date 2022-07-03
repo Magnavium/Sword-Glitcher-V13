@@ -32,31 +32,7 @@ a.Handle.Transparency = 1
 
 
 
-game:GetService("Players").LocalPlayer.Character["MeshPartAccessory"].Name = "swordlol"
 
-game:GetService("Players").LocalPlayer.Character["MeshPartAccessory"].Name = "uhyes"
-
-game:GetService("Players").LocalPlayer.Character["MeshPartAccessory"].Name = "aesword"
-
-game:GetService("Players").LocalPlayer.Character["MeshPartAccessory"].Name = "poggers"
-
-game:GetService("Players").LocalPlayer.Character["Divine Aura"].Name = "Auragamer"
-
-game.Players.LocalPlayer.Character.swordlol.Handle.Size= Vector3.new(0.1,0.1,0.1)
-
-game.Players.LocalPlayer.Character.uhyes.Handle.Size= Vector3.new(0.1,0.1,0.1)
-
-game.Players.LocalPlayer.Character.aesword.Handle.Size= Vector3.new(0.1,0.1,0.1)
-
-game.Players.LocalPlayer.Character.poggers.Handle.Size= Vector3.new(0.1,0.1,0.1)
-
-game.Players.LocalPlayer.Character.swordhalo.Handle.Size= Vector3.new(0.1,0.1,0.1)
-
-game.Players.LocalPlayer.Character.BladeMasterAccessory.Handle.Size= Vector3.new(0.1,0.1,0.1)
-
-game.Players.LocalPlayer.Character.ShadowBladeMasterAccessory.Handle.Size= Vector3.new(0.1,0.1,0.1)
-
-game.Players.LocalPlayer.Character.Auragamer.Handle.Size= Vector3.new(0.1,0.1,0.1)
 
  -- -gh 4458601937,4506945409,4794315940,4315489767,4524991457,4820152700,6904794619,4773932088
 
@@ -5894,7 +5870,6 @@ end
 					changeMode'...'
 NeutralAnims = false
 Chat2"Please..."
-game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Please..", "All")
 
 for i = 0, 20, 0.1 do
 		swait()
@@ -5909,7 +5884,6 @@ for i = 0, 20, 0.1 do
 end
 
 Chat2"HELP ME..."
-game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("HELP ME..", "All")
 
 for i = 0, 20, 0.1 do
 		swait()
